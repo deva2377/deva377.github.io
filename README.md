@@ -5,3 +5,4 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 
 Just adding this line for commit
+I have added a line for checking the pull command
